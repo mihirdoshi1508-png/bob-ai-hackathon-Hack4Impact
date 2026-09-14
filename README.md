@@ -74,25 +74,33 @@
 
 ## ⚡ How to Run
 
-> **Copy these exact steps from your [`docs/setup-guide.md`](docs/setup-guide.md)**
 
-```bash
-# 1. Clone the repo
+# 1. Clone the repository
 git clone https://github.com/[your-repo].git
 cd [your-repo]
 
-# 2. Install dependencies
-[your install command here]
+# 2. Create a virtual environment
+python -m venv venv
 
-# 3. Configure environment
+# 3. Activate the virtual environment
+# Windows:
+venv\Scripts\activate
+
+# macOS/Linux:
+source venv/bin/activate
+
+# 4. Install dependencies
+pip install -r requirements.txt
+
+# 5. Configure environment
 cp .env.example .env
-# Edit .env with your values
+# Edit .env with your required values
 
-# 4. Run the project
-[your run command here]
-```
+# 6. Run the project
+python src/app.py
 
----
+# 7. Open the dashboard
+# Visit: http://localhost:5000
 
 ## 🖥️ Demo
 
