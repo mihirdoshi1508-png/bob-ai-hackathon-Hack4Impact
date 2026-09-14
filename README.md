@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Hack4Impact** | [Your Team Name] |
+| **** | [AI / DevOps / Sustainability / Open] |
+| **Mihir** | [Name] — [email@ibm.com] |
+| **Daksh,Bhavya,Dharm** | [Name 1], [Name 2], [Name 3] |
 
 ---
 
