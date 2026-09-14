@@ -122,6 +122,6 @@ Real-time integration with utility/grid hardware is not yet implemented.
 
 ## 🏅 What We're Most Proud Of
 
-[Tell the judges what part of your submission is strongest and worth paying close attention to.]
 
----
+
+We are most proud of building an AI-driven solution that can predict potential power outages and grid equipment failures before they occur. Our strongest feature is the ability to turn real-time grid data into early warnings and actionable insights for preventive maintenance. The project focuses on making power distribution more reliable, efficient, and proactive, rather than simply reacting after an outage happens.
