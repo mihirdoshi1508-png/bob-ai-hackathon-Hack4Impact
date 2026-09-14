@@ -115,13 +115,10 @@ python src/app.py
 
 ## ⚠️ Known Limitations
 
-> Be honest — judges appreciate transparency over overclaiming.
-
-- [Limitation 1: e.g., "Authentication is mocked — not production-ready"]
-- [Limitation 2: e.g., "Only tested on Chrome"]
-- [Limitation 3: e.g., "Feature X is scaffolded but not fully implemented"]
-
----
+Prediction accuracy depends on the quality and availability of historical grid data.
+The system is currently a prototype and has not been tested on a large-scale real-world power grid.
+Predictions may not account for unexpected events such as natural disasters or sudden equipment damage.
+Real-time integration with utility/grid hardware is not yet implemented.
 
 ## 🏅 What We're Most Proud Of
 
