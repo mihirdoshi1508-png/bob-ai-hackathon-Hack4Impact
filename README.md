@@ -33,11 +33,11 @@
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
-- **Feature 4:** [Optional]
-- **Feature 5:** [Optional]
+- **Feature 1:** [Real-time monitoring of voltage, current, temperature, and load]
+- **Feature 2:** [AI-based prediction of power outages and equipment failures.]
+- **Feature 3:** [Early alerts for abnormal conditions and potential failures.]
+- **Feature 4:** [Predictive maintenance recommendations to prevent breakdowns.]
+- **Feature 5:** [Dashboard for visualizing grid health, risks, and predictions.]
 
 ---
 
