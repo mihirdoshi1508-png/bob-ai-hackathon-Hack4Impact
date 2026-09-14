@@ -9,7 +9,7 @@
 | Field | Value |
 |---|---|
 | **Hack4Impact** | [Your Team Name] |
-| **** | [AI / DevOps / Sustainability / Open] |
+| **AI** | [AI / DevOps / Sustainability / Open] |
 | **Mihir** | [Name] — [email@ibm.com] |
 | **Daksh,Bhavya,Dharm** | [Name 1], [Name 2], [Name 3] |
 
