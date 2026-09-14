@@ -45,11 +45,11 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
-| **Databases** | [e.g., PostgreSQL, Redis] |
-| **Other** | [e.g., Docker, GitHub Actions] |
+| **Languages** | [ Python, TypeScript] |
+| **Frameworks** | [Flask, React] |
+| **IBM Technologies** | [, watsonx.ai, IBM Cloud] |
+| **Databases** | [PostgreSQL] |
+| **Other** | [GitHub, Docker, Pandas, Scikit-learn, Jupyter Notebook] |
 
 ---
 
