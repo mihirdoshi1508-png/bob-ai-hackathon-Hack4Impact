@@ -27,7 +27,7 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+[We built an AI-based Power Outage Prediction & Grid Equipment Failure Detection System that monitors grid parameters like voltage, current, temperature, and load. It uses this data to detect abnormal patterns and predict possible equipment failures. The system gives early warnings, allowing operators to take preventive action before a failure occurs. This helps reduce unexpected power outages, maintenance costs, and improves grid reliability.]
 
 ---
 
