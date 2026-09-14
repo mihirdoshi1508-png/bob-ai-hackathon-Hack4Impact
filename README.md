@@ -53,23 +53,24 @@
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository 
 
-```
-├── src/                  # All source code
-├── docs/                 # Written documentation
-│   ├── problem-statement.md
-│   ├── solution-overview.md
-│   ├── architecture.md
-│   └── setup-guide.md
-├── demo/                 # Demo artifacts
-│   ├── screenshots/      # App screenshots
-│   └── demo-video-link.txt  # Link to demo video
-├── presentation/         # Slide deck
-└── submission.yaml       # Structured submission metadata
-```
 
----
+├── src/                         # Source code
+│   ├── data/                    # Dataset and data processing
+│   ├── models/                  # AI/ML prediction models
+│   ├── api/                     # Backend/API services
+│   └── dashboard/               # Monitoring dashboard
+├── docs/                        # Project documentation
+│   ├── problem-statement.md     # Problem description
+│   ├── solution-overview.md     # Proposed solution
+│   ├── architecture.md          # System architecture
+│   └── setup-guide.md           # Installation and setup
+├── demo/                        # Demo materials
+│   ├── screenshots/             # Application screenshots
+│   └── demo-video-link.txt      # Demo video link
+├── presentation/                # Project presentation/slides
+└── submission.yaml              # Submission metadata
 
 ## ⚡ How to Run
 
