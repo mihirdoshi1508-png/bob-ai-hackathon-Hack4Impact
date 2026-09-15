@@ -106,8 +106,8 @@ python src/app.py
 
 | Artifact | Link |
 |---|---|
-| 📹 Demo Video https://youtu.be/WrsL2iXvs9E?si=94Hh50S2EiTbgt0h |
-| 🌐 Live Demo | [See demo/live-demo-url.txt](demo/live-demo-url.txt) |
+| 📹 Demo Video |https://youtu.be/WrsL2iXvs9E?si=94Hh50S2EiTbgt0h |
+| 🌐 Live Demo | [https://youtu.be/FvUITLIhjgY?si=pG98_ANHOvpaYr_E) ]|
 | 🖼️ Screenshots | [https://share.google/mffr9YmdqVExRBUQ0],
 ) |
 | 📊 Presentation | [https://canva.link/oc8zhcwzm4zwdar) ]|
